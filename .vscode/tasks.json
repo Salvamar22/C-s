@@ -1,0 +1,54 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "build",
+<<<<<<< HEAD
+                "${workspaceFolder}/Cum.csproj",
+=======
+                "${workspaceFolder}/Lab01/Lab01/Lab01.csproj",
+>>>>>>> a49059357235e5d00503cb18e642ed140fe7ac2a
+                "/property:GenerateFullPaths=true",
+                "/consoleloggerparameters:NoSummary"
+            ],
+            "problemMatcher": "$msCompile"
+        },
+        {
+            "label": "publish",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "publish",
+<<<<<<< HEAD
+                "${workspaceFolder}/Cum.csproj",
+=======
+                "${workspaceFolder}/Lab01/Lab01/Lab01.csproj",
+>>>>>>> a49059357235e5d00503cb18e642ed140fe7ac2a
+                "/property:GenerateFullPaths=true",
+                "/consoleloggerparameters:NoSummary"
+            ],
+            "problemMatcher": "$msCompile"
+        },
+        {
+            "label": "watch",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "watch",
+                "run",
+<<<<<<< HEAD
+                "${workspaceFolder}/Cum.csproj",
+=======
+                "${workspaceFolder}/Lab01/Lab01/Lab01.csproj",
+>>>>>>> a49059357235e5d00503cb18e642ed140fe7ac2a
+                "/property:GenerateFullPaths=true",
+                "/consoleloggerparameters:NoSummary"
+            ],
+            "problemMatcher": "$msCompile"
+        }
+    ]
+}

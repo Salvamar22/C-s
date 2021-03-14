@@ -1,0 +1,16 @@
+C:\Users\salva\Desktop\Progra\C#\Mundial\bin\Debug\net5.0\Mundial.exe
+C:\Users\salva\Desktop\Progra\C#\Mundial\bin\Debug\net5.0\Mundial.deps.json
+C:\Users\salva\Desktop\Progra\C#\Mundial\bin\Debug\net5.0\Mundial.runtimeconfig.json
+C:\Users\salva\Desktop\Progra\C#\Mundial\bin\Debug\net5.0\Mundial.runtimeconfig.dev.json
+C:\Users\salva\Desktop\Progra\C#\Mundial\bin\Debug\net5.0\Mundial.dll
+C:\Users\salva\Desktop\Progra\C#\Mundial\bin\Debug\net5.0\ref\Mundial.dll
+C:\Users\salva\Desktop\Progra\C#\Mundial\bin\Debug\net5.0\Mundial.pdb
+C:\Users\salva\Desktop\Progra\C#\Mundial\obj\Debug\net5.0\Mundial.csprojAssemblyReference.cache
+C:\Users\salva\Desktop\Progra\C#\Mundial\obj\Debug\net5.0\Mundial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salva\Desktop\Progra\C#\Mundial\obj\Debug\net5.0\Mundial.AssemblyInfoInputs.cache
+C:\Users\salva\Desktop\Progra\C#\Mundial\obj\Debug\net5.0\Mundial.AssemblyInfo.cs
+C:\Users\salva\Desktop\Progra\C#\Mundial\obj\Debug\net5.0\Mundial.csproj.CoreCompileInputs.cache
+C:\Users\salva\Desktop\Progra\C#\Mundial\obj\Debug\net5.0\Mundial.dll
+C:\Users\salva\Desktop\Progra\C#\Mundial\obj\Debug\net5.0\ref\Mundial.dll
+C:\Users\salva\Desktop\Progra\C#\Mundial\obj\Debug\net5.0\Mundial.pdb
+C:\Users\salva\Desktop\Progra\C#\Mundial\obj\Debug\net5.0\Mundial.genruntimeconfig.cache
