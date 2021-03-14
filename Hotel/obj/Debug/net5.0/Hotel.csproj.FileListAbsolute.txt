@@ -1,0 +1,16 @@
+C:\Users\salva\Desktop\Progra\C#\Hotel\bin\Debug\net5.0\Hotel.exe
+C:\Users\salva\Desktop\Progra\C#\Hotel\bin\Debug\net5.0\Hotel.deps.json
+C:\Users\salva\Desktop\Progra\C#\Hotel\bin\Debug\net5.0\Hotel.runtimeconfig.json
+C:\Users\salva\Desktop\Progra\C#\Hotel\bin\Debug\net5.0\Hotel.runtimeconfig.dev.json
+C:\Users\salva\Desktop\Progra\C#\Hotel\bin\Debug\net5.0\Hotel.dll
+C:\Users\salva\Desktop\Progra\C#\Hotel\bin\Debug\net5.0\ref\Hotel.dll
+C:\Users\salva\Desktop\Progra\C#\Hotel\bin\Debug\net5.0\Hotel.pdb
+C:\Users\salva\Desktop\Progra\C#\Hotel\obj\Debug\net5.0\Hotel.csprojAssemblyReference.cache
+C:\Users\salva\Desktop\Progra\C#\Hotel\obj\Debug\net5.0\Hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salva\Desktop\Progra\C#\Hotel\obj\Debug\net5.0\Hotel.AssemblyInfoInputs.cache
+C:\Users\salva\Desktop\Progra\C#\Hotel\obj\Debug\net5.0\Hotel.AssemblyInfo.cs
+C:\Users\salva\Desktop\Progra\C#\Hotel\obj\Debug\net5.0\Hotel.csproj.CoreCompileInputs.cache
+C:\Users\salva\Desktop\Progra\C#\Hotel\obj\Debug\net5.0\Hotel.dll
+C:\Users\salva\Desktop\Progra\C#\Hotel\obj\Debug\net5.0\ref\Hotel.dll
+C:\Users\salva\Desktop\Progra\C#\Hotel\obj\Debug\net5.0\Hotel.pdb
+C:\Users\salva\Desktop\Progra\C#\Hotel\obj\Debug\net5.0\Hotel.genruntimeconfig.cache
