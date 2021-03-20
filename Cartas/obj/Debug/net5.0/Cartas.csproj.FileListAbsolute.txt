@@ -1,0 +1,16 @@
+C:\Users\salva\Desktop\Progra\C#\Cartas\obj\Debug\net5.0\Cartas.csprojAssemblyReference.cache
+C:\Users\salva\Desktop\Progra\C#\Cartas\obj\Debug\net5.0\Cartas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salva\Desktop\Progra\C#\Cartas\obj\Debug\net5.0\Cartas.AssemblyInfoInputs.cache
+C:\Users\salva\Desktop\Progra\C#\Cartas\obj\Debug\net5.0\Cartas.AssemblyInfo.cs
+C:\Users\salva\Desktop\Progra\C#\Cartas\obj\Debug\net5.0\Cartas.csproj.CoreCompileInputs.cache
+C:\Users\salva\Desktop\Progra\C#\Cartas\bin\Debug\net5.0\Cartas.exe
+C:\Users\salva\Desktop\Progra\C#\Cartas\bin\Debug\net5.0\Cartas.deps.json
+C:\Users\salva\Desktop\Progra\C#\Cartas\bin\Debug\net5.0\Cartas.runtimeconfig.json
+C:\Users\salva\Desktop\Progra\C#\Cartas\bin\Debug\net5.0\Cartas.runtimeconfig.dev.json
+C:\Users\salva\Desktop\Progra\C#\Cartas\bin\Debug\net5.0\Cartas.dll
+C:\Users\salva\Desktop\Progra\C#\Cartas\bin\Debug\net5.0\ref\Cartas.dll
+C:\Users\salva\Desktop\Progra\C#\Cartas\bin\Debug\net5.0\Cartas.pdb
+C:\Users\salva\Desktop\Progra\C#\Cartas\obj\Debug\net5.0\Cartas.dll
+C:\Users\salva\Desktop\Progra\C#\Cartas\obj\Debug\net5.0\ref\Cartas.dll
+C:\Users\salva\Desktop\Progra\C#\Cartas\obj\Debug\net5.0\Cartas.pdb
+C:\Users\salva\Desktop\Progra\C#\Cartas\obj\Debug\net5.0\Cartas.genruntimeconfig.cache

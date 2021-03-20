@@ -1,0 +1,16 @@
+C:\Users\salva\Desktop\Progra\C#\Cocina\obj\Debug\net5.0\Cocina.csprojAssemblyReference.cache
+C:\Users\salva\Desktop\Progra\C#\Cocina\obj\Debug\net5.0\Cocina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salva\Desktop\Progra\C#\Cocina\obj\Debug\net5.0\Cocina.AssemblyInfoInputs.cache
+C:\Users\salva\Desktop\Progra\C#\Cocina\obj\Debug\net5.0\Cocina.AssemblyInfo.cs
+C:\Users\salva\Desktop\Progra\C#\Cocina\obj\Debug\net5.0\Cocina.csproj.CoreCompileInputs.cache
+C:\Users\salva\Desktop\Progra\C#\Cocina\bin\Debug\net5.0\Cocina.exe
+C:\Users\salva\Desktop\Progra\C#\Cocina\bin\Debug\net5.0\Cocina.deps.json
+C:\Users\salva\Desktop\Progra\C#\Cocina\bin\Debug\net5.0\Cocina.runtimeconfig.json
+C:\Users\salva\Desktop\Progra\C#\Cocina\bin\Debug\net5.0\Cocina.runtimeconfig.dev.json
+C:\Users\salva\Desktop\Progra\C#\Cocina\bin\Debug\net5.0\Cocina.dll
+C:\Users\salva\Desktop\Progra\C#\Cocina\bin\Debug\net5.0\ref\Cocina.dll
+C:\Users\salva\Desktop\Progra\C#\Cocina\bin\Debug\net5.0\Cocina.pdb
+C:\Users\salva\Desktop\Progra\C#\Cocina\obj\Debug\net5.0\Cocina.dll
+C:\Users\salva\Desktop\Progra\C#\Cocina\obj\Debug\net5.0\ref\Cocina.dll
+C:\Users\salva\Desktop\Progra\C#\Cocina\obj\Debug\net5.0\Cocina.pdb
+C:\Users\salva\Desktop\Progra\C#\Cocina\obj\Debug\net5.0\Cocina.genruntimeconfig.cache
