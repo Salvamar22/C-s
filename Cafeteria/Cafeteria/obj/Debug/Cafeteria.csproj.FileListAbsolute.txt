@@ -1,0 +1,10 @@
+C:\Users\salva\Desktop\Progra\Clases_Poo\Cafeteria\Cafeteria\bin\Debug\Cafeteria.exe.config
+C:\Users\salva\Desktop\Progra\Clases_Poo\Cafeteria\Cafeteria\bin\Debug\Cafeteria.exe
+C:\Users\salva\Desktop\Progra\Clases_Poo\Cafeteria\Cafeteria\bin\Debug\Cafeteria.pdb
+C:\Users\salva\Desktop\Progra\Clases_Poo\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csprojAssemblyReference.cache
+C:\Users\salva\Desktop\Progra\Clases_Poo\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Properties.Resources.resources
+C:\Users\salva\Desktop\Progra\Clases_Poo\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csproj.GenerateResource.cache
+C:\Users\salva\Desktop\Progra\Clases_Poo\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csproj.CoreCompileInputs.cache
+C:\Users\salva\Desktop\Progra\Clases_Poo\Cafeteria\Cafeteria\obj\Debug\Cafeteria.exe
+C:\Users\salva\Desktop\Progra\Clases_Poo\Cafeteria\Cafeteria\obj\Debug\Cafeteria.pdb
+C:\Users\salva\Desktop\Progra\Clases_Poo\Cafeteria\Cafeteria\obj\Debug\Cafeteria.frmCafeteria.resources
